@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\RectangleofNxNStars\bin\Debug\RectangleofNxNStars.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\RectangleofNxNStars\bin\Debug\RectangleofNxNStars.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\RectangleofNxNStars\bin\Debug\RectangleofNxNStars.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\RectangleofNxNStars\obj\Debug\RectangleofNxNStars.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\RectangleofNxNStars\obj\Debug\RectangleofNxNStars.pdb

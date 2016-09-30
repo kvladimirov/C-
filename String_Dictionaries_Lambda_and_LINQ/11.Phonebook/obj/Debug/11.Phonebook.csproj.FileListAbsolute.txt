@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\11.Phonebook\bin\Debug\11.Phonebook.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\11.Phonebook\bin\Debug\11.Phonebook.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\11.Phonebook\bin\Debug\11.Phonebook.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\11.Phonebook\obj\Debug\11.Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\11.Phonebook\obj\Debug\11.Phonebook.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\11.Phonebook\obj\Debug\11.Phonebook.pdb

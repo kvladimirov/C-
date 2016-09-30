@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Solution1\Small-Shop\bin\Debug\Small-Shop.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Solution1\Small-Shop\bin\Debug\Small-Shop.exe
+c:\users\user\documents\visual studio 2015\Projects\Solution1\Small-Shop\bin\Debug\Small-Shop.pdb
+c:\users\user\documents\visual studio 2015\Projects\Solution1\Small-Shop\obj\Debug\Small-Shop.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Solution1\Small-Shop\obj\Debug\Small-Shop.exe
+c:\users\user\documents\visual studio 2015\Projects\Solution1\Small-Shop\obj\Debug\Small-Shop.pdb

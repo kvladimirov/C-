@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\10.CommonStrings\bin\Debug\10.CommonStrings.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\10.CommonStrings\bin\Debug\10.CommonStrings.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\10.CommonStrings\bin\Debug\10.CommonStrings.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\10.CommonStrings\obj\Debug\10.CommonStrings.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\10.CommonStrings\obj\Debug\10.CommonStrings.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\10.CommonStrings\obj\Debug\10.CommonStrings.pdb

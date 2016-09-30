@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\ListsAndMatrices\9.LargestIncreasingSubsequence\bin\Debug\9.LargestIncreasingSubsequence.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\ListsAndMatrices\9.LargestIncreasingSubsequence\bin\Debug\9.LargestIncreasingSubsequence.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\ListsAndMatrices\9.LargestIncreasingSubsequence\bin\Debug\9.LargestIncreasingSubsequence.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\ListsAndMatrices\9.LargestIncreasingSubsequence\obj\Debug\9.LargestIncreasingSubsequence.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\ListsAndMatrices\9.LargestIncreasingSubsequence\obj\Debug\9.LargestIncreasingSubsequence.pdb

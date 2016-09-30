@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\01.GitGithubDebuggingSearching_Exersises\01.HolidaysBetweenTwoDates\bin\Debug\01.HolidaysBetweenTwoDates.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\01.GitGithubDebuggingSearching_Exersises\01.HolidaysBetweenTwoDates\bin\Debug\01.HolidaysBetweenTwoDates.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\01.GitGithubDebuggingSearching_Exersises\01.HolidaysBetweenTwoDates\bin\Debug\01.HolidaysBetweenTwoDates.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\01.GitGithubDebuggingSearching_Exersises\01.HolidaysBetweenTwoDates\obj\Debug\01.HolidaysBetweenTwoDates.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\01.GitGithubDebuggingSearching_Exersises\01.HolidaysBetweenTwoDates\obj\Debug\01.HolidaysBetweenTwoDates.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\01.GitGithubDebuggingSearching_Exersises\01.HolidaysBetweenTwoDates\obj\Debug\01.HolidaysBetweenTwoDates.csprojResolveAssemblyReference.cache

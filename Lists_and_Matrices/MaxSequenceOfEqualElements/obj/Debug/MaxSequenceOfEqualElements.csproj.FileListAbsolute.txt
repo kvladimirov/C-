@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\ListsAndMatrices\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\ListsAndMatrices\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\ListsAndMatrices\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\ListsAndMatrices\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\ListsAndMatrices\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\ListsAndMatrices\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.pdb

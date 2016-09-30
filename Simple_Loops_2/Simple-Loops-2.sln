@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelsSum", "VowelsSum\VowelsSum.csproj", "{11703BE6-275C-442F-8141-15485B1DF60E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HalfSumElement", "HalfSumElement\HalfSumElement.csproj", "{F17A92A9-7C0C-4D3C-8465-D60F6634B914}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odd-Even-Position", "Odd-Even-Position\Odd-Even-Position.csproj", "{7FDC228D-E226-4228-B73D-751E6F5EB522}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equals-Pairs", "Equals-Pairs\Equals-Pairs.csproj", "{60014724-4554-437D-AD8D-10051F2343C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11703BE6-275C-442F-8141-15485B1DF60E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11703BE6-275C-442F-8141-15485B1DF60E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11703BE6-275C-442F-8141-15485B1DF60E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11703BE6-275C-442F-8141-15485B1DF60E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F17A92A9-7C0C-4D3C-8465-D60F6634B914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F17A92A9-7C0C-4D3C-8465-D60F6634B914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F17A92A9-7C0C-4D3C-8465-D60F6634B914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F17A92A9-7C0C-4D3C-8465-D60F6634B914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FDC228D-E226-4228-B73D-751E6F5EB522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FDC228D-E226-4228-B73D-751E6F5EB522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FDC228D-E226-4228-B73D-751E6F5EB522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FDC228D-E226-4228-B73D-751E6F5EB522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60014724-4554-437D-AD8D-10051F2343C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60014724-4554-437D-AD8D-10051F2343C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60014724-4554-437D-AD8D-10051F2343C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60014724-4554-437D-AD8D-10051F2343C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

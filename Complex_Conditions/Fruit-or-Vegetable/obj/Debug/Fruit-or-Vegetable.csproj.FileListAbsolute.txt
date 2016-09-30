@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Solution1\Fruit-or-Vegetable\bin\Debug\Fruit-or-Vegetable.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Solution1\Fruit-or-Vegetable\bin\Debug\Fruit-or-Vegetable.exe
+c:\users\user\documents\visual studio 2015\Projects\Solution1\Fruit-or-Vegetable\bin\Debug\Fruit-or-Vegetable.pdb
+c:\users\user\documents\visual studio 2015\Projects\Solution1\Fruit-or-Vegetable\obj\Debug\Fruit-or-Vegetable.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Solution1\Fruit-or-Vegetable\obj\Debug\Fruit-or-Vegetable.exe
+c:\users\user\documents\visual studio 2015\Projects\Solution1\Fruit-or-Vegetable\obj\Debug\Fruit-or-Vegetable.pdb

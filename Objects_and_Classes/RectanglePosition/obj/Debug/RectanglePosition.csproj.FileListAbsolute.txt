@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\ObjectsAndClasses\RectanglePosition\bin\Debug\RectanglePosition.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\ObjectsAndClasses\RectanglePosition\bin\Debug\RectanglePosition.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\ObjectsAndClasses\RectanglePosition\bin\Debug\RectanglePosition.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\ObjectsAndClasses\RectanglePosition\obj\Debug\RectanglePosition.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\ObjectsAndClasses\RectanglePosition\obj\Debug\RectanglePosition.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\ObjectsAndClasses\RectanglePosition\obj\Debug\RectanglePosition.pdb

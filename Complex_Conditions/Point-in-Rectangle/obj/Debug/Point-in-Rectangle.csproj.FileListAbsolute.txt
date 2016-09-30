@@ -1,0 +1,2 @@
+c:\users\user\documents\visual studio 2015\Projects\Solution1\Point-in-Rectangle\bin\Debug\Point-in-Rectangle.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Complex-Conditions\Point-in-Rectangle\bin\Debug\Point-in-Rectangle.exe.config

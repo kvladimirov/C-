@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\SampleExam\03.DressPattern\bin\Debug\03.DressPattern.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\SampleExam\03.DressPattern\bin\Debug\03.DressPattern.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\SampleExam\03.DressPattern\bin\Debug\03.DressPattern.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\SampleExam\03.DressPattern\obj\Debug\03.DressPattern.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\SampleExam\03.DressPattern\obj\Debug\03.DressPattern.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\SampleExam\03.DressPattern\obj\Debug\03.DressPattern.csprojResolveAssemblyReference.cache

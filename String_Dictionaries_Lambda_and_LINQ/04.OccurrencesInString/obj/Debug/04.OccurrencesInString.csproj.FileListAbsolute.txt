@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\StringDictionariesLambdaAndLINQ\04.OccurrencesInString\bin\Debug\04.OccurrencesInString.exe.config
+c:\users\user\documents\visual studio 2015\Projects\StringDictionariesLambdaAndLINQ\04.OccurrencesInString\bin\Debug\04.OccurrencesInString.exe
+c:\users\user\documents\visual studio 2015\Projects\StringDictionariesLambdaAndLINQ\04.OccurrencesInString\bin\Debug\04.OccurrencesInString.pdb
+c:\users\user\documents\visual studio 2015\Projects\StringDictionariesLambdaAndLINQ\04.OccurrencesInString\obj\Debug\04.OccurrencesInString.exe
+c:\users\user\documents\visual studio 2015\Projects\StringDictionariesLambdaAndLINQ\04.OccurrencesInString\obj\Debug\04.OccurrencesInString.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\04.OccurrencesInString\obj\Debug\04.OccurrencesInString.csprojResolveAssemblyReference.cache

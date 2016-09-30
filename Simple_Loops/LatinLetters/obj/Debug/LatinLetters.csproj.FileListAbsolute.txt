@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\Simple-Loops\LatinLetters\bin\Debug\LatinLetters.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Simple-Loops\LatinLetters\bin\Debug\LatinLetters.exe
+c:\users\user\documents\visual studio 2015\Projects\Simple-Loops\LatinLetters\bin\Debug\LatinLetters.pdb
+c:\users\user\documents\visual studio 2015\Projects\Simple-Loops\LatinLetters\obj\Debug\LatinLetters.exe
+c:\users\user\documents\visual studio 2015\Projects\Simple-Loops\LatinLetters\obj\Debug\LatinLetters.pdb

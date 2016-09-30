@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Conditions\Excellent-or-Not\bin\Debug\Excellent-or-Not.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Conditions\Excellent-or-Not\bin\Debug\Excellent-or-Not.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Conditions\Excellent-or-Not\bin\Debug\Excellent-or-Not.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Conditions\Excellent-or-Not\obj\Debug\Excellent-or-Not.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Conditions\Excellent-or-Not\obj\Debug\Excellent-or-Not.pdb

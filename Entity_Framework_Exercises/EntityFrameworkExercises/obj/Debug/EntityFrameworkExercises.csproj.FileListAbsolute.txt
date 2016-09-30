@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2015\Projects\EntityFrameworkExercises\EntityFrameworkExercises\bin\Debug\EntityFrameworkExercises.exe.config
+c:\users\user\documents\visual studio 2015\Projects\EntityFrameworkExercises\EntityFrameworkExercises\bin\Debug\EntityFrameworkExercises.exe
+c:\users\user\documents\visual studio 2015\Projects\EntityFrameworkExercises\EntityFrameworkExercises\bin\Debug\EntityFrameworkExercises.pdb
+c:\users\user\documents\visual studio 2015\Projects\EntityFrameworkExercises\EntityFrameworkExercises\bin\Debug\EntityFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\EntityFrameworkExercises\EntityFrameworkExercises\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2015\Projects\EntityFrameworkExercises\EntityFrameworkExercises\bin\Debug\EntityFramework.xml
+c:\users\user\documents\visual studio 2015\Projects\EntityFrameworkExercises\EntityFrameworkExercises\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\user\documents\visual studio 2015\Projects\EntityFrameworkExercises\EntityFrameworkExercises\obj\Debug\EntityFrameworkExercises.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\EntityFrameworkExercises\EntityFrameworkExercises\obj\Debug\EntityFrameworkExercises.exe
+c:\users\user\documents\visual studio 2015\Projects\EntityFrameworkExercises\EntityFrameworkExercises\obj\Debug\EntityFrameworkExercises.pdb

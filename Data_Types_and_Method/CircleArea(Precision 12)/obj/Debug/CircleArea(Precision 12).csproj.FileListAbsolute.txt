@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\DataTypesandMethod\CircleArea(Precision 12)\bin\Debug\CircleArea(Precision 12).exe.config
+c:\users\user\documents\visual studio 2015\Projects\DataTypesandMethod\CircleArea(Precision 12)\bin\Debug\CircleArea(Precision 12).exe
+c:\users\user\documents\visual studio 2015\Projects\DataTypesandMethod\CircleArea(Precision 12)\bin\Debug\CircleArea(Precision 12).pdb
+c:\users\user\documents\visual studio 2015\Projects\DataTypesandMethod\CircleArea(Precision 12)\obj\Debug\CircleArea(Precision 12).csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\DataTypesandMethod\CircleArea(Precision 12)\obj\Debug\CircleArea(Precision 12).exe
+c:\users\user\documents\visual studio 2015\Projects\DataTypesandMethod\CircleArea(Precision 12)\obj\Debug\CircleArea(Precision 12).pdb

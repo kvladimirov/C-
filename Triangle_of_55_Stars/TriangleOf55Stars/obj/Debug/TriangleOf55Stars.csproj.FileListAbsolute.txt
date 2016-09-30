@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\TriangleOf55Stars\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe.config
+c:\users\user\documents\visual studio 2015\Projects\TriangleOf55Stars\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe
+c:\users\user\documents\visual studio 2015\Projects\TriangleOf55Stars\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.pdb
+c:\users\user\documents\visual studio 2015\Projects\TriangleOf55Stars\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.exe
+c:\users\user\documents\visual studio 2015\Projects\TriangleOf55Stars\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.pdb

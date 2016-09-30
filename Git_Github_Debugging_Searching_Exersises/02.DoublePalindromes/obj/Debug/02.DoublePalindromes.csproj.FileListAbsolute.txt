@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\01.GitGithubDebuggingSearching_Exersises\02.DoublePalindromes\bin\Debug\02.DoublePalindromes.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\01.GitGithubDebuggingSearching_Exersises\02.DoublePalindromes\bin\Debug\02.DoublePalindromes.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\01.GitGithubDebuggingSearching_Exersises\02.DoublePalindromes\bin\Debug\02.DoublePalindromes.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\01.GitGithubDebuggingSearching_Exersises\02.DoublePalindromes\obj\Debug\02.DoublePalindromes.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\01.GitGithubDebuggingSearching_Exersises\02.DoublePalindromes\obj\Debug\02.DoublePalindromes.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\01.GitGithubDebuggingSearching_Exersises\02.DoublePalindromes\obj\Debug\02.DoublePalindromes.pdb

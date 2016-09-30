@@ -1,0 +1,6 @@
+c:\Users\User\documents\visual studio 2015\Projects\Arrays\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+c:\Users\User\documents\visual studio 2015\Projects\Arrays\DayOfWeek\bin\Debug\DayOfWeek.exe
+c:\Users\User\documents\visual studio 2015\Projects\Arrays\DayOfWeek\bin\Debug\DayOfWeek.pdb
+c:\Users\User\documents\visual studio 2015\Projects\Arrays\DayOfWeek\obj\Debug\DayOfWeek.csprojResolveAssemblyReference.cache
+c:\Users\User\documents\visual studio 2015\Projects\Arrays\DayOfWeek\obj\Debug\DayOfWeek.exe
+c:\Users\User\documents\visual studio 2015\Projects\Arrays\DayOfWeek\obj\Debug\DayOfWeek.pdb

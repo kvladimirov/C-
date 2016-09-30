@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\Sunlight\bin\Debug\Sunlight.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\Sunlight\bin\Debug\Sunlight.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\Sunlight\bin\Debug\Sunlight.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\Sunlight\obj\Debug\Sunlight.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\Sunlight\obj\Debug\Sunlight.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\Sunlight\obj\Debug\Sunlight.pdb

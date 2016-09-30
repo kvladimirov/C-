@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Exam06-03-16\05.DrawFort\bin\Debug\05.DrawFort.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Exam06-03-16\05.DrawFort\bin\Debug\05.DrawFort.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Exam06-03-16\05.DrawFort\bin\Debug\05.DrawFort.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Exam06-03-16\05.DrawFort\obj\Debug\05.DrawFort.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Exam06-03-16\05.DrawFort\obj\Debug\05.DrawFort.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Exam06-03-16\05.DrawFort\obj\Debug\05.DrawFort.pdb

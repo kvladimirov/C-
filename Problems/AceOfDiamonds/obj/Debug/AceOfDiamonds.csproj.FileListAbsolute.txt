@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\AceOfDiamonds\bin\Debug\AceOfDiamonds.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\AceOfDiamonds\bin\Debug\AceOfDiamonds.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\AceOfDiamonds\bin\Debug\AceOfDiamonds.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\AceOfDiamonds\obj\Debug\AceOfDiamonds.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\AceOfDiamonds\obj\Debug\AceOfDiamonds.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\AceOfDiamonds\obj\Debug\AceOfDiamonds.pdb

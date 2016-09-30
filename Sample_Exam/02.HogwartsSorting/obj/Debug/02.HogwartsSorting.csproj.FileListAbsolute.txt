@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\SampleExam\02.HogwartsSorting\bin\Debug\02.HogwartsSorting.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\SampleExam\02.HogwartsSorting\bin\Debug\02.HogwartsSorting.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\SampleExam\02.HogwartsSorting\bin\Debug\02.HogwartsSorting.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\SampleExam\02.HogwartsSorting\obj\Debug\02.HogwartsSorting.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\SampleExam\02.HogwartsSorting\obj\Debug\02.HogwartsSorting.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\SampleExam\02.HogwartsSorting\obj\Debug\02.HogwartsSorting.csprojResolveAssemblyReference.cache

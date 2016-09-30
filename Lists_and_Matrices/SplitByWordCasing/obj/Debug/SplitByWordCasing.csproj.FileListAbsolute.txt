@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\ListsAndMatrices\SplitByWordCasing\bin\Debug\SplitByWordCasing.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\ListsAndMatrices\SplitByWordCasing\bin\Debug\SplitByWordCasing.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\ListsAndMatrices\SplitByWordCasing\bin\Debug\SplitByWordCasing.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\ListsAndMatrices\SplitByWordCasing\obj\Debug\SplitByWordCasing.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\ListsAndMatrices\SplitByWordCasing\obj\Debug\SplitByWordCasing.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\ListsAndMatrices\SplitByWordCasing\obj\Debug\SplitByWordCasing.pdb

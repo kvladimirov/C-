@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\02.PracticeFloatingPoints\bin\Debug\02.PracticeFloatingPoints.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\02.PracticeFloatingPoints\bin\Debug\02.PracticeFloatingPoints.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\02.PracticeFloatingPoints\bin\Debug\02.PracticeFloatingPoints.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\02.PracticeFloatingPoints\obj\Debug\02.PracticeFloatingPoints.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\02.PracticeFloatingPoints\obj\Debug\02.PracticeFloatingPoints.pdb

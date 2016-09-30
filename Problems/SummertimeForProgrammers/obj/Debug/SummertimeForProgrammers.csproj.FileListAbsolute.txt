@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\SummertimeForProgrammers\bin\Debug\SummertimeForProgrammers.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\SummertimeForProgrammers\bin\Debug\SummertimeForProgrammers.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\SummertimeForProgrammers\bin\Debug\SummertimeForProgrammers.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\SummertimeForProgrammers\obj\Debug\SummertimeForProgrammers.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\SummertimeForProgrammers\obj\Debug\SummertimeForProgrammers.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\SummertimeForProgrammers\obj\Debug\SummertimeForProgrammers.pdb

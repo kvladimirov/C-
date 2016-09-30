@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.pdb

@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\Advanced-Loops\GreatestCommonDivisor(CGD)\bin\Debug\GreatestCommonDivisor(CGD).exe.config
+c:\users\user\documents\visual studio 2015\Projects\Advanced-Loops\GreatestCommonDivisor(CGD)\bin\Debug\GreatestCommonDivisor(CGD).exe
+c:\users\user\documents\visual studio 2015\Projects\Advanced-Loops\GreatestCommonDivisor(CGD)\bin\Debug\GreatestCommonDivisor(CGD).pdb
+c:\users\user\documents\visual studio 2015\Projects\Advanced-Loops\GreatestCommonDivisor(CGD)\obj\Debug\GreatestCommonDivisor(CGD).exe
+c:\users\user\documents\visual studio 2015\Projects\Advanced-Loops\GreatestCommonDivisor(CGD)\obj\Debug\GreatestCommonDivisor(CGD).pdb

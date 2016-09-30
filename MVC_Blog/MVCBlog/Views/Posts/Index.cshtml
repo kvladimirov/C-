@@ -1,0 +1,78 @@
+﻿@model IEnumerable<MVCBlog.Models.Post>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@if (User.Identity.IsAuthenticated)
+{
+<p>   
+    @Html.ActionLink("Create New", "Create")
+</p>
+}
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Body)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Date)
+        </th>       
+        <th>
+            @Html.DisplayNameFor(model => model.Author)
+        </th>
+        <th>
+            Actions
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @MVCBlog.Classes.Utils.CutText(item.Body)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date)
+            </td>
+            <td>
+                @if (item.Author != null)
+                {
+                    @item.Author.UserName;
+                }
+                else
+                {
+                    <i>(No author)</i>
+                }
+            </td>
+            @if (User.Identity.IsAuthenticated)
+            {
+                <td>
+                    @if (User.IsInRole("Administrators") || (item.Author != null && User.Identity.Name == item.Author.UserName))
+                    {
+                        @Html.ActionLink("Edit", "Edit", new { id = item.Id }) @:|
+            }
+                    @Html.ActionLink("Details", "Details", new { id = item.Id })
+                    @if (User.IsInRole("Administrators") || (item.Author != null && User.Identity.Name == item.Author.UserName))
+                    {
+                        @:| @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+            }
+                </td>
+            }
+            @if (!User.Identity.IsAuthenticated)
+            {
+                <td>
+                    @Html.ActionLink("Details", "Details", new { id = item.Id })
+                </td>
+            }
+        </tr>
+    }
+
+</table>

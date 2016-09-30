@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\Solution1\Point-on-Rectangle-Border\bin\Debug\Point-on-Rectangle-Border.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Solution1\Point-on-Rectangle-Border\bin\Debug\Point-on-Rectangle-Border.exe
+c:\users\user\documents\visual studio 2015\Projects\Solution1\Point-on-Rectangle-Border\bin\Debug\Point-on-Rectangle-Border.pdb
+c:\users\user\documents\visual studio 2015\Projects\Solution1\Point-on-Rectangle-Border\obj\Debug\Point-on-Rectangle-Border.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Solution1\Point-on-Rectangle-Border\obj\Debug\Point-on-Rectangle-Border.exe
+c:\users\user\documents\visual studio 2015\Projects\Solution1\Point-on-Rectangle-Border\obj\Debug\Point-on-Rectangle-Border.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Complex-Conditions\Point-on-Rectangle-Border\bin\Debug\Point-on-Rectangle-Border.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Complex-Conditions\Point-on-Rectangle-Border\obj\Debug\Point-on-Rectangle-Border.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Complex-Conditions\Point-on-Rectangle-Border\obj\Debug\Point-on-Rectangle-Border.pdb

@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays\7.MaxSequenceOfIncreasingElements\bin\Debug\7.MaxSequenceOfIncreasingElements.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays\7.MaxSequenceOfIncreasingElements\bin\Debug\7.MaxSequenceOfIncreasingElements.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays\7.MaxSequenceOfIncreasingElements\bin\Debug\7.MaxSequenceOfIncreasingElements.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays\7.MaxSequenceOfIncreasingElements\obj\Debug\7.MaxSequenceOfIncreasingElements.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays\7.MaxSequenceOfIncreasingElements\obj\Debug\7.MaxSequenceOfIncreasingElements.pdb

@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Conditions\Even-or-Odd\bin\Debug\Even-or-Odd.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Conditions\Even-or-Odd\bin\Debug\Even-or-Odd.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Conditions\Even-or-Odd\bin\Debug\Even-or-Odd.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Conditions\Even-or-Odd\obj\Debug\Even-or-Odd.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Conditions\Even-or-Odd\obj\Debug\Even-or-Odd.pdb

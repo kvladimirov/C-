@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Conditions\Number-0...9-to-Text\bin\Debug\Number_0._._._9_to_Text.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Conditions\Number-0...9-to-Text\bin\Debug\Number_0._._._9_to_Text.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Conditions\Number-0...9-to-Text\bin\Debug\Number_0._._._9_to_Text.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Conditions\Number-0...9-to-Text\obj\Debug\Number-0...9-to-Text.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Conditions\Number-0...9-to-Text\obj\Debug\Number_0._._._9_to_Text.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Conditions\Number-0...9-to-Text\obj\Debug\Number_0._._._9_to_Text.pdb

@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Advanced-Loops\Numbers1-NwithStep3\bin\Debug\Numbers1-NwithStep3.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Advanced-Loops\Numbers1-NwithStep3\bin\Debug\Numbers1-NwithStep3.exe
+c:\users\user\documents\visual studio 2015\Projects\Advanced-Loops\Numbers1-NwithStep3\bin\Debug\Numbers1-NwithStep3.pdb
+c:\users\user\documents\visual studio 2015\Projects\Advanced-Loops\Numbers1-NwithStep3\obj\Debug\Numbers1-NwithStep3.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Advanced-Loops\Numbers1-NwithStep3\obj\Debug\Numbers1-NwithStep3.exe
+c:\users\user\documents\visual studio 2015\Projects\Advanced-Loops\Numbers1-NwithStep3\obj\Debug\Numbers1-NwithStep3.pdb

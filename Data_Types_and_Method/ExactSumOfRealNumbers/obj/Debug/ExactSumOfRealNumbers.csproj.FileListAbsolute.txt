@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\DataTypesandMethod\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.exe.config
+c:\users\user\documents\visual studio 2015\Projects\DataTypesandMethod\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.exe
+c:\users\user\documents\visual studio 2015\Projects\DataTypesandMethod\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.pdb
+c:\users\user\documents\visual studio 2015\Projects\DataTypesandMethod\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.exe
+c:\users\user\documents\visual studio 2015\Projects\DataTypesandMethod\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.csprojResolveAssemblyReference.cache

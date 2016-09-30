@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\03.PracticeCharsAndStrings\bin\Debug\03.PracticeCharsAndStrings.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\03.PracticeCharsAndStrings\bin\Debug\03.PracticeCharsAndStrings.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\03.PracticeCharsAndStrings\bin\Debug\03.PracticeCharsAndStrings.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\03.PracticeCharsAndStrings\obj\Debug\03.PracticeCharsAndStrings.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\03.PracticeCharsAndStrings\obj\Debug\03.PracticeCharsAndStrings.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\03.PracticeCharsAndStrings\obj\Debug\03.PracticeCharsAndStrings.csprojResolveAssemblyReference.cache

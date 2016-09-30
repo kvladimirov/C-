@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\10.FoldAndSum\bin\Debug\10.FoldAndSum.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\10.FoldAndSum\bin\Debug\10.FoldAndSum.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\10.FoldAndSum\bin\Debug\10.FoldAndSum.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\10.FoldAndSum\obj\Debug\10.FoldAndSum.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\10.FoldAndSum\obj\Debug\10.FoldAndSum.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\10.FoldAndSum\obj\Debug\10.FoldAndSum.pdb

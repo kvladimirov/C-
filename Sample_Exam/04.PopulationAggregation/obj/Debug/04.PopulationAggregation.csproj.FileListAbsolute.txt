@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\SampleExam\04.PopulationAggregation\bin\Debug\04.PopulationAggregation.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\SampleExam\04.PopulationAggregation\bin\Debug\04.PopulationAggregation.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\SampleExam\04.PopulationAggregation\bin\Debug\04.PopulationAggregation.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\SampleExam\04.PopulationAggregation\obj\Debug\04.PopulationAggregation.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\SampleExam\04.PopulationAggregation\obj\Debug\04.PopulationAggregation.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\SampleExam\04.PopulationAggregation\obj\Debug\04.PopulationAggregation.pdb

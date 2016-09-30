@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\01.GitGithubDebuggingSearching_Exersises\BePositive\bin\Debug\BePositive.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\01.GitGithubDebuggingSearching_Exersises\BePositive\bin\Debug\BePositive.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\01.GitGithubDebuggingSearching_Exersises\BePositive\bin\Debug\BePositive.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\01.GitGithubDebuggingSearching_Exersises\BePositive\obj\Debug\BePositive.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\01.GitGithubDebuggingSearching_Exersises\BePositive\obj\Debug\BePositive.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\01.GitGithubDebuggingSearching_Exersises\BePositive\obj\Debug\BePositive.pdb

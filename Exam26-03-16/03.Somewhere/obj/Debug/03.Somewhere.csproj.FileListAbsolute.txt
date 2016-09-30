@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Exam26-03-16\03.Somewhere\bin\Debug\03.Somewhere.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Exam26-03-16\03.Somewhere\bin\Debug\03.Somewhere.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Exam26-03-16\03.Somewhere\bin\Debug\03.Somewhere.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Exam26-03-16\03.Somewhere\obj\Debug\03.Somewhere.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Exam26-03-16\03.Somewhere\obj\Debug\03.Somewhere.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Exam26-03-16\03.Somewhere\obj\Debug\03.Somewhere.pdb

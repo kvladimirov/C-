@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\02.FitStringIn20Chars\bin\Debug\02.FitStringIn20Chars.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\02.FitStringIn20Chars\bin\Debug\02.FitStringIn20Chars.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\02.FitStringIn20Chars\bin\Debug\02.FitStringIn20Chars.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\02.FitStringIn20Chars\obj\Debug\02.FitStringIn20Chars.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\02.FitStringIn20Chars\obj\Debug\02.FitStringIn20Chars.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\02.FitStringIn20Chars\obj\Debug\02.FitStringIn20Chars.pdb

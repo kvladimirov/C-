@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Exam12-06-2016\02.Problem\bin\Debug\02.Problem.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Exam12-06-2016\02.Problem\bin\Debug\02.Problem.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Exam12-06-2016\02.Problem\bin\Debug\02.Problem.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Exam12-06-2016\02.Problem\obj\Debug\02.Problem.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Exam12-06-2016\02.Problem\obj\Debug\02.Problem.pdb

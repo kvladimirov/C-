@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\ObjectsAndClasses\ClosestTwoPoints\bin\Debug\ClosestTwoPoints.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\ObjectsAndClasses\ClosestTwoPoints\bin\Debug\ClosestTwoPoints.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\ObjectsAndClasses\ClosestTwoPoints\bin\Debug\ClosestTwoPoints.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\ObjectsAndClasses\ClosestTwoPoints\obj\Debug\ClosestTwoPoints.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\ObjectsAndClasses\ClosestTwoPoints\obj\Debug\ClosestTwoPoints.pdb

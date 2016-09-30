@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\SquareFrame\bin\Debug\SquareFrame.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\SquareFrame\bin\Debug\SquareFrame.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\SquareFrame\bin\Debug\SquareFrame.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\SquareFrame\obj\Debug\SquareFrame.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\SquareFrame\obj\Debug\SquareFrame.pdb

@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\TriplesOfLetters\bin\Debug\TriplesOfLetters.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\TriplesOfLetters\bin\Debug\TriplesOfLetters.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\TriplesOfLetters\bin\Debug\TriplesOfLetters.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\TriplesOfLetters\obj\Debug\TriplesOfLetters.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\TriplesOfLetters\obj\Debug\TriplesOfLetters.pdb

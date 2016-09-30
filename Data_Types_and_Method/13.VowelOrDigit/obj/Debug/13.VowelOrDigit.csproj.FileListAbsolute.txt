@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\13.VowelOrDigit\bin\Debug\13.VowelOrDigit.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\13.VowelOrDigit\bin\Debug\13.VowelOrDigit.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\13.VowelOrDigit\bin\Debug\13.VowelOrDigit.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\13.VowelOrDigit\obj\Debug\13.VowelOrDigit.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\13.VowelOrDigit\obj\Debug\13.VowelOrDigit.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\13.VowelOrDigit\obj\Debug\13.VowelOrDigit.pdb

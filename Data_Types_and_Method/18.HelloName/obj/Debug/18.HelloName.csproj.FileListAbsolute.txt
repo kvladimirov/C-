@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\18.HelloName\bin\Debug\18.HelloName.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\18.HelloName\bin\Debug\18.HelloName.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\18.HelloName\bin\Debug\18.HelloName.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\18.HelloName\obj\Debug\18.HelloName.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\18.HelloName\obj\Debug\18.HelloName.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\18.HelloName\obj\Debug\18.HelloName.pdb

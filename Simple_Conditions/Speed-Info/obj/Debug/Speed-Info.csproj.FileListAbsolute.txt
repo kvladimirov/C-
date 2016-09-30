@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Conditions\Speed-Info\bin\Debug\Speed-Info.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Conditions\Speed-Info\bin\Debug\Speed-Info.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Conditions\Speed-Info\bin\Debug\Speed-Info.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Conditions\Speed-Info\obj\Debug\Speed-Info.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Conditions\Speed-Info\obj\Debug\Speed-Info.pdb

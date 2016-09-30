@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\10.PalindromeIndex\bin\Debug\10.PalindromeIndex.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\10.PalindromeIndex\bin\Debug\10.PalindromeIndex.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\10.PalindromeIndex\bin\Debug\10.PalindromeIndex.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\10.PalindromeIndex\obj\Debug\10.PalindromeIndex.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\10.PalindromeIndex\obj\Debug\10.PalindromeIndex.pdb

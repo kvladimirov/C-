@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Solution1\Odd-Even-Position\bin\Debug\Odd-Even-Position.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Solution1\Odd-Even-Position\bin\Debug\Odd-Even-Position.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Solution1\Odd-Even-Position\bin\Debug\Odd-Even-Position.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Solution1\Odd-Even-Position\obj\Debug\Odd-Even-Position.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Solution1\Odd-Even-Position\obj\Debug\Odd-Even-Position.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Solution1\Odd-Even-Position\obj\Debug\Odd-Even-Position.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Loops-2\Odd-Even-Position\bin\Debug\Odd-Even-Position.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Loops-2\Odd-Even-Position\obj\Debug\Odd-Even-Position.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Loops-2\Odd-Even-Position\obj\Debug\Odd-Even-Position.pdb

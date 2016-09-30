@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\SquareOfStars\SquareOfStars\bin\Debug\SquareOfStars.exe.config
+c:\users\user\documents\visual studio 2015\Projects\SquareOfStars\SquareOfStars\bin\Debug\SquareOfStars.exe
+c:\users\user\documents\visual studio 2015\Projects\SquareOfStars\SquareOfStars\bin\Debug\SquareOfStars.pdb
+c:\users\user\documents\visual studio 2015\Projects\SquareOfStars\SquareOfStars\obj\Debug\SquareOfStars.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\SquareOfStars\SquareOfStars\obj\Debug\SquareOfStars.exe
+c:\users\user\documents\visual studio 2015\Projects\SquareOfStars\SquareOfStars\obj\Debug\SquareOfStars.pdb

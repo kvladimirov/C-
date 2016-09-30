@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\BeerStock\bin\Debug\BeerStock.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\BeerStock\bin\Debug\BeerStock.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\BeerStock\bin\Debug\BeerStock.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\BeerStock\obj\Debug\BeerStock.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\BeerStock\obj\Debug\BeerStock.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\BeerStock\obj\Debug\BeerStock.pdb

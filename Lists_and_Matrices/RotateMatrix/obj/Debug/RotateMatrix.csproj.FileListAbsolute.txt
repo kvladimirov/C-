@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\ListsAndMatrices\RotateMatrix\bin\Debug\RotateMatrix.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\ListsAndMatrices\RotateMatrix\bin\Debug\RotateMatrix.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\ListsAndMatrices\RotateMatrix\bin\Debug\RotateMatrix.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\ListsAndMatrices\RotateMatrix\obj\Debug\RotateMatrix.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\ListsAndMatrices\RotateMatrix\obj\Debug\RotateMatrix.pdb

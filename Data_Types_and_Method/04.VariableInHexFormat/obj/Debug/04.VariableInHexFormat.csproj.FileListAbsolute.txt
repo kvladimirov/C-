@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\04.VariableInHexFormat\bin\Debug\04.VariableInHexFormat.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\04.VariableInHexFormat\bin\Debug\04.VariableInHexFormat.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\04.VariableInHexFormat\bin\Debug\04.VariableInHexFormat.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\04.VariableInHexFormat\obj\Debug\04.VariableInHexFormat.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\04.VariableInHexFormat\obj\Debug\04.VariableInHexFormat.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\04.VariableInHexFormat\obj\Debug\04.VariableInHexFormat.csprojResolveAssemblyReference.cache

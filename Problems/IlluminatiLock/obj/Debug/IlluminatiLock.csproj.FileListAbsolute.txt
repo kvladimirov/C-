@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\IlluminatiLock\bin\Debug\IlluminatiLock.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\IlluminatiLock\bin\Debug\IlluminatiLock.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\IlluminatiLock\bin\Debug\IlluminatiLock.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\IlluminatiLock\obj\Debug\IlluminatiLock.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\IlluminatiLock\obj\Debug\IlluminatiLock.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Test\IlluminatiLock\obj\Debug\IlluminatiLock.pdb

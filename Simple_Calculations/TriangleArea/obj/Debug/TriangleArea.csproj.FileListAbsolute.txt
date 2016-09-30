@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Calculations\TriangleArea\bin\Debug\TriangleArea.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Calculations\TriangleArea\bin\Debug\TriangleArea.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Calculations\TriangleArea\bin\Debug\TriangleArea.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Calculations\TriangleArea\obj\Debug\TriangleArea.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Calculations\TriangleArea\obj\Debug\TriangleArea.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Calculations\TriangleArea\obj\Debug\TriangleArea.pdb

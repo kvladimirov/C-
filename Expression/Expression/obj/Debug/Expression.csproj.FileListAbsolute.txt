@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\Expression\Expression\bin\Debug\Expression.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Expression\Expression\bin\Debug\Expression.exe
+c:\users\user\documents\visual studio 2015\Projects\Expression\Expression\bin\Debug\Expression.pdb
+c:\users\user\documents\visual studio 2015\Projects\Expression\Expression\obj\Debug\Expression.exe
+c:\users\user\documents\visual studio 2015\Projects\Expression\Expression\obj\Debug\Expression.pdb

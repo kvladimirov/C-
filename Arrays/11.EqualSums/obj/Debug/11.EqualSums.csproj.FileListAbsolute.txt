@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays\11.EqualSums\bin\Debug\11.EqualSums.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays\11.EqualSums\bin\Debug\11.EqualSums.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays\11.EqualSums\bin\Debug\11.EqualSums.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays\11.EqualSums\obj\Debug\11.EqualSums.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays\11.EqualSums\obj\Debug\11.EqualSums.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays\11.EqualSums\obj\Debug\11.EqualSums.pdb

@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\09.ShortWordsSorted\bin\Debug\09.ShortWordsSorted.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\09.ShortWordsSorted\bin\Debug\09.ShortWordsSorted.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\09.ShortWordsSorted\bin\Debug\09.ShortWordsSorted.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\09.ShortWordsSorted\obj\Debug\09.ShortWordsSorted.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\09.ShortWordsSorted\obj\Debug\09.ShortWordsSorted.pdb

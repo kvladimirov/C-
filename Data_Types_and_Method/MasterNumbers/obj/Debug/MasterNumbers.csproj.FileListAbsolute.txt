@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\MasterNumbers\bin\Debug\MasterNumbers.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\MasterNumbers\bin\Debug\MasterNumbers.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\MasterNumbers\bin\Debug\MasterNumbers.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\MasterNumbers\obj\Debug\MasterNumbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\MasterNumbers\obj\Debug\MasterNumbers.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\MasterNumbers\obj\Debug\MasterNumbers.pdb

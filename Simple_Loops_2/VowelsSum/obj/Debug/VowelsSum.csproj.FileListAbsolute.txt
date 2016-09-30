@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\Solution1\VowelsSum\bin\Debug\VowelsSum.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Solution1\VowelsSum\bin\Debug\VowelsSum.exe
+c:\users\user\documents\visual studio 2015\Projects\Solution1\VowelsSum\bin\Debug\VowelsSum.pdb
+c:\users\user\documents\visual studio 2015\Projects\Solution1\VowelsSum\obj\Debug\VowelsSum.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Solution1\VowelsSum\obj\Debug\VowelsSum.exe
+c:\users\user\documents\visual studio 2015\Projects\Solution1\VowelsSum\obj\Debug\VowelsSum.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Loops-2\VowelsSum\bin\Debug\VowelsSum.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Loops-2\VowelsSum\obj\Debug\VowelsSum.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Loops-2\VowelsSum\obj\Debug\VowelsSum.pdb

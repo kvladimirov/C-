@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\SampleExam\02.SoftUniWaterSupplies\bin\Debug\02.SoftUniWaterSupplies.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\SampleExam\02.SoftUniWaterSupplies\bin\Debug\02.SoftUniWaterSupplies.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\SampleExam\02.SoftUniWaterSupplies\bin\Debug\02.SoftUniWaterSupplies.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\SampleExam\02.SoftUniWaterSupplies\obj\Debug\02.SoftUniWaterSupplies.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\SampleExam\02.SoftUniWaterSupplies\obj\Debug\02.SoftUniWaterSupplies.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\SampleExam\02.SoftUniWaterSupplies\obj\Debug\02.SoftUniWaterSupplies.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\Practic\bin\Debug\Practic.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\Practic\bin\Debug\Practic.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\Practic\bin\Debug\Practic.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\Practic\obj\Debug\Practic.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\Practic\obj\Debug\Practic.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\Practic\obj\Debug\Practic.pdb

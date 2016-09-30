@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\7.OddOccurrences\bin\Debug\7.OddOccurrences.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\7.OddOccurrences\obj\Debug\7.OddOccurrences.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\7.OddOccurrences\bin\Debug\7.OddOccurrences.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\7.OddOccurrences\bin\Debug\7.OddOccurrences.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\7.OddOccurrences\obj\Debug\7.OddOccurrences.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\7.OddOccurrences\obj\Debug\7.OddOccurrences.pdb

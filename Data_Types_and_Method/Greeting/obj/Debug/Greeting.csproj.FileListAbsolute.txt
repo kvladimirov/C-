@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\Greeting\bin\Debug\Greeting.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\Greeting\bin\Debug\Greeting.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\Greeting\bin\Debug\Greeting.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\Greeting\obj\Debug\Greeting.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\Greeting\obj\Debug\Greeting.pdb

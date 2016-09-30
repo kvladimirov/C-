@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Simple-Loops\Numbers-from-1-to-100\bin\Debug\Numbers-from-1-to-100.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Simple-Loops\Numbers-from-1-to-100\obj\Debug\Numbers-from-1-to-100.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Simple-Loops\Numbers-from-1-to-100\bin\Debug\Numbers-from-1-to-100.exe
+c:\users\user\documents\visual studio 2015\Projects\Simple-Loops\Numbers-from-1-to-100\bin\Debug\Numbers-from-1-to-100.pdb
+c:\users\user\documents\visual studio 2015\Projects\Simple-Loops\Numbers-from-1-to-100\obj\Debug\Numbers-from-1-to-100.exe
+c:\users\user\documents\visual studio 2015\Projects\Simple-Loops\Numbers-from-1-to-100\obj\Debug\Numbers-from-1-to-100.pdb

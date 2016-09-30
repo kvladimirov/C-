@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Calculations\1000DaysAfterBirth\bin\Debug\1000DaysAfterBirth.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Calculations\1000DaysAfterBirth\bin\Debug\1000DaysAfterBirth.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Calculations\1000DaysAfterBirth\bin\Debug\1000DaysAfterBirth.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Calculations\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Calculations\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.pdb

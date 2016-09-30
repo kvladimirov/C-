@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\Simple-Loops\NumbersEndingin7\bin\Debug\NumbersEndingin7.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Simple-Loops\NumbersEndingin7\bin\Debug\NumbersEndingin7.exe
+c:\users\user\documents\visual studio 2015\Projects\Simple-Loops\NumbersEndingin7\bin\Debug\NumbersEndingin7.pdb
+c:\users\user\documents\visual studio 2015\Projects\Simple-Loops\NumbersEndingin7\obj\Debug\NumbersEndingin7.exe
+c:\users\user\documents\visual studio 2015\Projects\Simple-Loops\NumbersEndingin7\obj\Debug\NumbersEndingin7.pdb

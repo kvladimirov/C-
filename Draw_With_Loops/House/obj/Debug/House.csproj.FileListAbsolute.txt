@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\House\bin\Debug\House.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\House\bin\Debug\House.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\House\bin\Debug\House.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\House\obj\Debug\House.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\House\obj\Debug\House.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\House\obj\Debug\House.pdb

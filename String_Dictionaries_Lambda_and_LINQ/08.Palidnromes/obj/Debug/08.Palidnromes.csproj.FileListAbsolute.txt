@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\08.Palidnromes\bin\Debug\08.Palidnromes.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\08.Palidnromes\bin\Debug\08.Palidnromes.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\08.Palidnromes\bin\Debug\08.Palidnromes.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\08.Palidnromes\obj\Debug\08.Palidnromes.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\08.Palidnromes\obj\Debug\08.Palidnromes.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\08.Palidnromes\obj\Debug\08.Palidnromes.pdb

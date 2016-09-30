@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\24.PrimesInGivenRange\bin\Debug\24.PrimesInGivenRange.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\24.PrimesInGivenRange\bin\Debug\24.PrimesInGivenRange.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\24.PrimesInGivenRange\bin\Debug\24.PrimesInGivenRange.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\24.PrimesInGivenRange\obj\Debug\24.PrimesInGivenRange.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\24.PrimesInGivenRange\obj\Debug\24.PrimesInGivenRange.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\DataTypesandMethod\24.PrimesInGivenRange\obj\Debug\24.PrimesInGivenRange.csprojResolveAssemblyReference.cache

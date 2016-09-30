@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\Exam06-03-16\02.TransportPrice\bin\Debug\02.TransportPrice.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Exam06-03-16\02.TransportPrice\bin\Debug\02.TransportPrice.exe
+c:\users\user\documents\visual studio 2015\Projects\Exam06-03-16\02.TransportPrice\bin\Debug\02.TransportPrice.pdb
+c:\users\user\documents\visual studio 2015\Projects\Exam06-03-16\02.TransportPrice\obj\Debug\02.TransportPrice.exe
+c:\users\user\documents\visual studio 2015\Projects\Exam06-03-16\02.TransportPrice\obj\Debug\02.TransportPrice.pdb

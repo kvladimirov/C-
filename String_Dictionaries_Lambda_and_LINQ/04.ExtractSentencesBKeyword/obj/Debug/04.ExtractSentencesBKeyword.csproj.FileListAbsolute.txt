@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\04.ExtractSentencesBKeyword\bin\Debug\04.ExtractSentencesBKeyword.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\04.ExtractSentencesBKeyword\bin\Debug\04.ExtractSentencesBKeyword.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\04.ExtractSentencesBKeyword\bin\Debug\04.ExtractSentencesBKeyword.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\04.ExtractSentencesBKeyword\obj\Debug\04.ExtractSentencesBKeyword.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\04.ExtractSentencesBKeyword\obj\Debug\04.ExtractSentencesBKeyword.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\StringDictionariesLambdaAndLINQ\04.ExtractSentencesBKeyword\obj\Debug\04.ExtractSentencesBKeyword.pdb

@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Simple-Conditions\BonusScore\bin\Debug\BonusScore.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Simple-Conditions\BonusScore\obj\Debug\BonusScore.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Simple-Conditions\BonusScore\bin\Debug\BonusScore.exe
+c:\users\user\documents\visual studio 2015\Projects\Simple-Conditions\BonusScore\bin\Debug\BonusScore.pdb
+c:\users\user\documents\visual studio 2015\Projects\Simple-Conditions\BonusScore\obj\Debug\BonusScore.exe
+c:\users\user\documents\visual studio 2015\Projects\Simple-Conditions\BonusScore\obj\Debug\BonusScore.pdb

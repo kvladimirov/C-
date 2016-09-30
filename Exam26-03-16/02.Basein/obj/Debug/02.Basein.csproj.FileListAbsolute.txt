@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Exam26-03-16\02.Basein\bin\Debug\02.Basein.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Exam26-03-16\02.Basein\bin\Debug\02.Basein.exe
+c:\users\user\documents\visual studio 2015\Projects\Exam26-03-16\02.Basein\bin\Debug\02.Basein.pdb
+c:\users\user\documents\visual studio 2015\Projects\Exam26-03-16\02.Basein\obj\Debug\02.Basein.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Exam26-03-16\02.Basein\obj\Debug\02.Basein.exe
+c:\users\user\documents\visual studio 2015\Projects\Exam26-03-16\02.Basein\obj\Debug\02.Basein.pdb

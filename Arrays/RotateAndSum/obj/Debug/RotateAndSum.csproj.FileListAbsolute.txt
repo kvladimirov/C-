@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays\RotateAndSum\bin\Debug\RotateAndSum.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays\RotateAndSum\bin\Debug\RotateAndSum.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays\RotateAndSum\bin\Debug\RotateAndSum.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays\RotateAndSum\obj\Debug\RotateAndSum.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays\RotateAndSum\obj\Debug\RotateAndSum.pdb

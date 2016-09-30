@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\SquareofStars\bin\Debug\SquareofStars.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\SquareofStars\bin\Debug\SquareofStars.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\SquareofStars\bin\Debug\SquareofStars.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\SquareofStars\obj\Debug\SquareofStars.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\SquareofStars\obj\Debug\SquareofStars.pdb

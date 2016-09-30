@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\RhombusofStars\bin\Debug\RhombusofStars.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\RhombusofStars\bin\Debug\RhombusofStars.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\RhombusofStars\bin\Debug\RhombusofStars.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\RhombusofStars\obj\Debug\RhombusofStars.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Draw_With_Loops\RhombusofStars\obj\Debug\RhombusofStars.pdb

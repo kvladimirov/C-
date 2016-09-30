@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Calculations\2D-RectangleArea\bin\Debug\2D-RectangleArea.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Calculations\2D-RectangleArea\bin\Debug\2D-RectangleArea.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Calculations\2D-RectangleArea\bin\Debug\2D-RectangleArea.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Calculations\2D-RectangleArea\obj\Debug\2D-RectangleArea.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Simple-Calculations\2D-RectangleArea\obj\Debug\2D-RectangleArea.pdb
